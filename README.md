@@ -1,6 +1,6 @@
 # crypto-tracker-and-analyser
 
-   The "Cryptocurrency Tracker and Analyzer" project aims to provide users with a comprehensive tool to track and analyze various cryptocurrencies in real time. The primary features of the project include:
+The "Cryptocurrency Tracker and Analyzer" project aims to provide users with a comprehensive tool to track and analyze various cryptocurrencies in real time. The primary features of the project include:
 
 1. Cryptocurrency Table:
 The project displays a table of cryptocurrencies, which includes essential information such as name, current price, 24-hour change (price in percentage), and market capitalization. The table can be sorted based on these parameters, allowing users to identify top-performing cryptocurrencies quickly.
@@ -17,5 +17,5 @@ The project introduces a unique feature called the "Priority Watchlist," which e
 5. Tracking and Analysis:
 The primary goal of the project is to provide users with the tools they need to track and analyze various cryptocurrencies efficiently. By displaying real-time data, historical price charts, and personalized watchlists, users can make informed decisions about their cryptocurrency investments.
 
-   In conclusion, the "Cryptocurrency Tracker and Analyzer" project offers a comprehensive solution for users to track and analyze cryptocurrencies effectively.
+In conclusion, the "Cryptocurrency Tracker and Analyzer" project offers a comprehensive solution for users to track and analyze cryptocurrencies effectively.
 The combination of a detailed cryptocurrency table, interactive price charts, customizable watchlists, and the unique priority watchlist feature makes this project a valuable tool for both cryptocurrency enthusiasts and investors. Whether users are interested in keeping an eye on the overall market or actively managing their investments, this project aims to provide the necessary features and functionality to assist them in their cryptocurrency endeavors.
